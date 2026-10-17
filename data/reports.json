@@ -1,0 +1,69 @@
+[
+  {
+    "report_id": "R001",
+    "patient_id": "P001",
+    "report_type": "OPG",
+    "report_date": "2026-01-10",
+    "findings": [
+      "Lower right third molar (tooth 48) is horizontally impacted.",
+      "Mild pericoronal radiolucency noted around crown of tooth 48."
+    ],
+    "clinician": "Dr. Rao"
+  },
+  {
+    "report_id": "R002",
+    "patient_id": "P001",
+    "report_type": "OPG",
+    "report_date": "2026-06-15",
+    "findings": [
+      "Lower right third molar (tooth 48) remains horizontally impacted in close proximity to the inferior alveolar canal.",
+      "No periapical abscess or acute bone loss detected.",
+      "Upper left second molar (tooth 27) shows a shallow occlusal restoration."
+    ],
+    "clinician": "Dr. Iyer"
+  },
+  {
+    "report_id": "R003",
+    "patient_id": "P002",
+    "report_type": "OPG",
+    "report_date": "2026-03-12",
+    "findings": [
+      "Generalized mild horizontal bone loss across mandibular anterior teeth.",
+      "Upper right first molar (tooth 16) has root canal filling material."
+    ],
+    "clinician": "Dr. Rao"
+  },
+  {
+    "report_id": "R004",
+    "patient_id": "P002",
+    "report_type": "OPG",
+    "report_date": "2026-05-20",
+    "findings": [
+      "Stable periodontal bone levels compared to previous OPG.",
+      "Periapical region of root-treated tooth 16 appears normal."
+    ],
+    "clinician": "Dr. Iyer"
+  },
+  {
+    "report_id": "R005",
+    "patient_id": "P003",
+    "report_type": "CBCT",
+    "report_date": "2026-04-02",
+    "findings": [
+      "Well-defined radiolucency at the apex of lower left first molar (tooth 36).",
+      "Maxillary sinuses appear clear bilaterally."
+    ],
+    "clinician": "Dr. Nair"
+  },
+  {
+    "report_id": "R006",
+    "patient_id": "P005",
+    "report_type": "OPG",
+    "report_date": "2026-02-18",
+    "findings": [
+      "Missing lower right first molar (tooth 46) with healed edentulous ridge.",
+      "Adequate vertical bone height at site 46 for implant planning."
+    ],
+    "clinician": "Dr. Rao"
+  }
+]

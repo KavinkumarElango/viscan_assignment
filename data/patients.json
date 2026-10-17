@@ -1,0 +1,32 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Priya Sharma",
+    "age": 29,
+    "gender": "Female"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Priya Verma",
+    "age": 35,
+    "gender": "Female"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Rahul Mehta",
+    "age": 42,
+    "gender": "Male"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Aisha Khan",
+    "age": 24,
+    "gender": "Female"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Arjun Patel",
+    "age": 51,
+    "gender": "Male"
+  }
+]
